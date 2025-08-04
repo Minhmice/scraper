@@ -106,3 +106,11 @@ Chúc các cháu:
 ---
 
 <p align="center"><i>Made by người viết tool trong đêm lạnh, với một nỗi buồn mang tên CPM tăng</i></p>
+
+<p align="center"><strong>🛠 Code by <span style='color:#FF69B4'>Minhmice</span></strong></p>
+
+
+---
+
+<p align="center"><b>💻 Code by <span style='color:#f40;'>minhmice</span> - Người viết tool không bao giờ ngủ</b></p>
+<p align="center"><i>Hãy nhớ, đây không phải là script... đây là nghệ thuật.</i></p>
