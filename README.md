@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/made%20with-love-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/fb%20ads%20scraper-🔥%20Real%20AF-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/status-WORKING%20-%20as%20of%202025-green?style=for-the-badge" />
 </p>
 
 ---
